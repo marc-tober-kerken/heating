@@ -1,4 +1,9 @@
 #! /bin/bash
+#
+# added comments
+#
+# added more
+#
 
 main(){
 	local l_starttime=$(date +%s)
